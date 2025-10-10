@@ -1,7 +1,7 @@
-# 🌊 Wave – Realtime Chat Application
+# 🌊 Wave - Realtime Chat Application
 
 > **Wave** is a modern, real-time chat application built with **React**, **Node.js**, **Socket.IO**, and **MongoDB**.  
-> Designed to deliver seamless communication, Wave lets users chat instantly, share media, and stay connected — anytime, anywhere.
+> Designed to deliver seamless communication, Wave lets users chat instantly, share media, and stay connected - anytime, anywhere.
 
 ---
 
@@ -14,7 +14,6 @@
 | **Database** | MongoDB Atlas |
 | **Media Storage** | Cloudinary, Multer |
 | **Security** | Helmet, CORS, Rate Limiting |
-| **Deployment** | Railway / Render (Server) & Vercel / Netlify (Client) |
 
 ---
 
@@ -31,6 +30,4 @@
 ✅ **Modern, responsive UI** built with Tailwind CSS  
 
 ---
-
-## 🧩 System Architecture
 
