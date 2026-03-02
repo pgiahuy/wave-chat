@@ -1,7 +1,7 @@
-# Wave - Realtime Chat Application
+# Wave – Privacy Web Chat (Back-end Focus)
 
-> **Wave** is a modern, real-time chat application built with **React** and **Spring Boot**.  
-> Designed to deliver seamless communication, Wave lets users chat instantly, share media, and stay connected - anytime, anywhere.
+> **Wave** is a modern, real-time web chat built with React and Spring Boot.
+> Focused on privacy and security, all messages and media are protected with end-to-end encryption, ensuring only you and your chat partners can read them. Chat, share, and stay connected - anytime, anywhere
 
 ---
 
@@ -9,22 +9,22 @@
 
 | Layer | Technologies |
 |:------|:--------------|
-| **Frontend** | React.js, React Router, Axios, Socket.IO Client, Tailwind CSS, Framer Motion, Emoji Mart |
+| **Frontend** ||
 | **Backend** | Spring Boot, Spring WebSocket (STOMP), Spring Security, Spring Data MongoDB, JWT, BCrypt |
-| **Database** | MongoDB, PostgreSQL |
+| **Database** | MongoDB , PostgreSQL |
 | **Media Storage** | Cloudinary API, Multipart Upload |
-| **Security** | Spring Security, JWT Authentication, CORS Configuration, Rate Limiting |
+| **Security & Privacy** | End-to-end encryption (E2EE), JWT Authentication, BCrypt Password Hashing, CORS, Rate Limiting |
 
 ---
 
 ## Key Features
 
-**Realtime messaging** via Spring WebSocket  
-**One-to-one & group chat** support  
-**Online / Offline status** tracking  
-**Typing indicators**  
-**Seen messages** tracking  
-**Media uploads** to Cloudinary  
-**JWT-based authentication & authorization**  
-**Chat history** stored in MongoDB  
-**Modern, responsive UI** built with Tailwind CSS
+- Realtime messaging via Spring WebSocket
+- One-to-one & group chat support
+- End-to-end encryption (E2EE) for all messages and media
+- Online / Offline status tracking
+- Typing indicators & seen messages
+- Secure media uploads to Cloudinary
+- JWT-based authentication & authorization
+- Chat history securely stored in MongoDB
+
