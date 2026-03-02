@@ -1,4 +1,4 @@
-# Wave – Privacy Web Chat (Back-end Focus)
+# Wave - Privacy Web Chat (Back-end Focus)
 
 > **Wave** is a modern, real-time web chat built with React and Spring Boot.
 > Focused on privacy and security, all messages and media are protected with end-to-end encryption, ensuring only you and your chat partners can read them. Chat, share, and stay connected - anytime, anywhere
