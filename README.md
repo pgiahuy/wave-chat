@@ -28,3 +28,4 @@
 - JWT-based authentication & authorization
 - Chat history securely stored in MongoDB
 
+> Spring Boot practice project
